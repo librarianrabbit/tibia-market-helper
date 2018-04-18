@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>do_not_worth.png</file>
+        <file>bad.png</file>
+        <file>medium.png</file>
+        <file>excelent.png</file>
+        <file>good.png</file>
+    </qresource>
+</RCC>
